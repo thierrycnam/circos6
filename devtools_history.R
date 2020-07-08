@@ -1,0 +1,6 @@
+usethis::use_build_ignore("devtools_history.R")
+usethis::use_package("circlize")
+usethis::use_package("shiny")
+usethis::use_package("dplyr")
+usethis::use_package("readr")
+usethis::use_package("ggsci")
